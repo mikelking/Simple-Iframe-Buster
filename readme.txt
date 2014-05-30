@@ -7,7 +7,7 @@ Simple Iframe Buster - a WordPress Plugin
 Contributors: vizkr
 Tags: iframe
 Requires at least: 3.9
-Tested up to: 3.8
+Tested up to: 3.9.1
 Stable tag: 3.8
 License: BSD(3 Clause)
 License URI: http://opensource.org/licenses/BSD-3-Clause
