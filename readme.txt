@@ -1,9 +1,4 @@
-simple-iframe-buster
-===================
-
-Simple Iframe Buster - a WordPress Plugin
-
-=== Plugin Name ===
+=== Simple Iframe Buster ===
 Contributors: vizkr
 Tags: iframe, x-frame-options
 Requires at least: 3.9
