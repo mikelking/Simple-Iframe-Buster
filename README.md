@@ -7,8 +7,8 @@ Simple Iframe Buster - a WordPress Plugin
 Contributors: vizkr
 Tags: iframe
 Requires at least: 3.9
-Tested up to: 3.9
-Stable tag: 3.9
+Tested up to: 3.8
+Stable tag: 3.8
 License: BSD(3 Clause)
 License URI: http://opensource.org/licenses/BSD-3-Clause
 
@@ -24,7 +24,7 @@ the webserver config
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `simple-iframe-buster` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
