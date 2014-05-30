@@ -12,12 +12,12 @@ Stable tag: 3.8
 License: BSD(3 Clause)
 License URI: http://opensource.org/licenses/BSD-3-Clause
 
-Provides a method of turning the WordPress heartbeat off as well as change some settings.
+Provides a method of setting the X-Frame-Options header to SAMEORIGIN. Also enqueues a javascript based iframe blocker.
 
 == Description ==
 
-Provides a method of adding X-Frame-Options to a site hosted in an environment that does not grant access to 
-the webserver config
+Provides a method of adding X-Frame-Options to the http headers for sites hosted in an environment that does not grant access to 
+the webserver config, .htaccess or lack mod_headers type facility.
 
 + Sets X-Frame-Options to SAMEORIGIN
 + Enqueue iframe blocking javascript
