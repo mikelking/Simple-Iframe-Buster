@@ -5,8 +5,8 @@ Simple Iframe Buster - a WordPress Plugin
 
 === Plugin Name ===
 Contributors: vizkr
-Tags: iframe
-Requires at least: 3.8
+Tags: iframe, x-frame-options
+Requires at least: 3.9
 Tested up to: 3.9.1
 Stable tag: 3.8
 License: BSD(3 Clause)
