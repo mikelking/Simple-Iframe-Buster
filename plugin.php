@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple Iframe Buster
-Version: 1.0
+Version: 1.1
 Description: Enqueues a sitewide javascript to inhibit iframes
 Author: Mikel King
 Text Domain: simple-iframe-buster
@@ -40,7 +40,7 @@ License URI: http://opensource.org/licenses/BSD-3-Clause
 */
 
 class Simple_Iframe_Buster {
-    const VERSION   = '1.0';
+    const VERSION   = '1.1';
     const ENABLED   = true;
     const DISABLED  = false;
     const IN_FOOTER      = true;

@@ -39,6 +39,9 @@ Currently no.
 
 == Changelog ==
 
+= 1.1 =
+* Corrected quoting issues in js files.
+
 = 1.0 =
 * Initial stable version.
 
